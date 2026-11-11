@@ -1,8 +1,8 @@
 # Receipt Assistant - manual installation
 
-[Download v0.21.0](https://github.com/leapfrog7/receipt-assistant-site/releases/download/v0.21.0/email-diarisation-assistant-0.21.0.zip) | [Installation guide](https://leapfrog7.github.io/receipt-assistant-site/download.html) | [Privacy](https://leapfrog7.github.io/receipt-assistant-site/privacy.html)
+[Download v0.21.5](https://github.com/leapfrog7/receipt-assistant-site/releases/download/v0.21.5/email-diarisation-assistant-0.21.5.zip) | [Installation guide](https://leapfrog7.github.io/receipt-assistant-site/download.html) | [Privacy](https://leapfrog7.github.io/receipt-assistant-site/privacy.html)
 
-This public repository hosts the product website and built extension releases. Download the named **email-diarisation-assistant-0.21.0.zip** release asset; GitHub's automatic Source code ZIP contains the website, not the loadable extension.
+This public repository hosts the product website and built extension releases. Download the named **email-diarisation-assistant-0.21.5.zip** release asset; GitHub's automatic Source code ZIP contains the website, not the loadable extension.
 
 ## Install
 
