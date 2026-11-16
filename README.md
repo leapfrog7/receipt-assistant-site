@@ -1,8 +1,8 @@
 # Receipt Assistant - manual installation
 
-[Download v0.21.11](https://github.com/leapfrog7/receipt-assistant-site/releases/download/v0.21.11/email-diarisation-assistant-0.21.11.zip) | [Installation guide](https://leapfrog7.github.io/receipt-assistant-site/download.html) | [Privacy](https://leapfrog7.github.io/receipt-assistant-site/privacy.html)
+[Download v0.22.0](https://github.com/leapfrog7/receipt-assistant-site/releases/download/v0.22.0/email-diarisation-assistant-0.22.0.zip) | [Installation guide](https://leapfrog7.github.io/receipt-assistant-site/download.html) | [Privacy](https://leapfrog7.github.io/receipt-assistant-site/privacy.html)
 
-This public repository hosts the product website and built extension releases. Download the named **email-diarisation-assistant-0.21.11.zip** release asset; GitHub's automatic Source code ZIP contains the website, not the loadable extension.
+This public repository hosts the product website and built extension releases. Download the named **email-diarisation-assistant-0.22.0.zip** release asset; GitHub's automatic Source code ZIP contains the website, not the loadable extension.
 
 ## Install
 
@@ -23,3 +23,7 @@ The Chrome mail app uses one reusable companion with Arrange beside mail, Restor
 This manual-install testing release is separate from the Chrome Web Store submission and does not claim Store approval. Extension preparation is local; the requested receipt is sent to your configured eOffice service. Activation/retry eFile checks may contact that service before preparation. No automatic sign-in or keep-alive is provided.
 
 Publisher: **Undersigned**. Support: **yatinnsit319@gmail.com**. Independent software; not an official Government, NIC, eOffice or Google product.
+
+## Printable PDF copies in v0.22.0
+
+Signed PDFs, filled forms and complex printable annotations convert locally into static page images when needed. Keep signed originals: cryptographic signature validity is not retained or verified. Password-protected files remain blocked. Corrupt files, dynamic XFA-only forms and size/page limits can still prevent processing. Embedded documents are not expanded. The new offscreen permission provides a hidden local renderer; no conversion server or PDF scripting is used.
