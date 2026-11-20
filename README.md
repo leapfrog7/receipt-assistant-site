@@ -1,8 +1,8 @@
 # Receipt Assistant - manual installation
 
-[Download v0.22.3](https://github.com/leapfrog7/receipt-assistant-site/releases/download/v0.22.3/email-diarisation-assistant-0.22.3.zip) | [Installation guide](https://leapfrog7.github.io/receipt-assistant-site/download.html) | [Privacy](https://leapfrog7.github.io/receipt-assistant-site/privacy.html)
+[Download v0.22.4](https://github.com/leapfrog7/receipt-assistant-site/releases/download/v0.22.4/email-diarisation-assistant-0.22.4.zip) | [Installation guide](https://leapfrog7.github.io/receipt-assistant-site/download.html) | [Privacy](https://leapfrog7.github.io/receipt-assistant-site/privacy.html)
 
-This public repository hosts the product website and built extension releases. Download the named **email-diarisation-assistant-0.22.3.zip** release asset; GitHub's automatic Source code ZIP contains the website, not the loadable extension.
+This public repository hosts the product website and built extension releases. Download the named **email-diarisation-assistant-0.22.4.zip** release asset; GitHub's automatic Source code ZIP contains the website, not the loadable extension.
 
 ## Install
 
@@ -24,10 +24,14 @@ This manual-install testing release is separate from the Chrome Web Store submis
 
 Publisher: **Undersigned**. Support: **yatinnsit319@gmail.com**. Independent software; not an official Government, NIC, eOffice or Google product.
 
-## Printable PDF copies in v0.22.3
+## Printable PDF copies in v0.22.4
 
 Signed PDFs, filled forms and complex printable annotations convert locally into static page images when needed. Keep signed originals: cryptographic signature validity is not retained or verified. Password-protected files remain blocked. Corrupt files, dynamic XFA-only forms and size/page limits can still prevent processing. Embedded documents are not expanded. The new offscreen permission provides a hidden local renderer; no conversion server or PDF scripting is used.
 
 ## Receipt defaults and reading recovery
 
 In Settings > Receipt defaults, save Name, Designation and multiline Address for new receipts on Office and NIC VPN. Values stay on this device and are sent to the selected eOffice service during receipt creation. Old settings retain NA fallbacks. Empty-body mail recognition, failure explanations and the narrow-panel workflow have also been improved.
+
+## PDF size preservation in v0.22.4
+
+Saved caret and strikeout correction appearances are preserved directly when safe, avoiding unnecessary full-page image conversion. Original compressed page-image data is kept intact. The eOffice 20 MB upload limit remains enforced, and size errors now report the measured final package size.
